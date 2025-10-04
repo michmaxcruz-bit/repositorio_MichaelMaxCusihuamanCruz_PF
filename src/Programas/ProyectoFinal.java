@@ -25,5 +25,6 @@ public class ProyectoFinal {
         System.out.println("");
         System.out.println("Total de compras: "+totalCompras);
         System.out.println("Promedio de compras: "+promedioCompras);
+        System.out.println("archivo modificado");
     }
 }
